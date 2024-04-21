@@ -1,0 +1,9 @@
+pip install streamlit
+pip install flask
+pip install requests
+pip install torch torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
+install chocolatey packagemanager(https://chocolatey.org/)
+choco install ffmpeg
+pip install -U openai-whisper
+pip install pytesseract
+pip install transformers
